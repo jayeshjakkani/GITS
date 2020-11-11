@@ -148,7 +148,7 @@ Feel free to edit this list as per your convenience. Add few tasks if you got mo
 - You just got to know that someone merged their changes to the remote main branch. Sync your main branch.
 - Last commit that is present in the main branch is not working well so you want to remove changes made by that commit entirely on both: local and remote.
 - You are doing great till now but assume a hypothetical scenario where you have made a mess in your local repo and want to delete the current repo and fork it all again.
-- Now complete all the above tasks in the same order
+- Now complete all the above tasks in the same order given using GITS!!
 
 
 ### Quantitative measures
