@@ -21,7 +21,7 @@ Observational graphs for Git and GITS are as given below.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.32.45%20PM.png)<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.58.45%20PM.png)<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.01.37%20PM.png)<br />
-![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.04.35%20PM.png)<br />
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.44.30%20PM.png)<br />
 
 ## Conclusions<br />
 
