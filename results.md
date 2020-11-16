@@ -13,7 +13,14 @@
 
 
 ## Observations<br />
-
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.53.31%20PM.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/bar-graph2.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.22.00%20PM.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/bar-graph1.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.32.45%20PM.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.58.45%20PM.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.01.37%20PM.png)
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.04.35%20PM.png)
 
 ## Conclusions<br />
 
