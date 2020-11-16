@@ -24,14 +24,14 @@ Observational graphs for Git and GITS are as given below.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.44.30%20PM.png)<br />
 
 ## Conclusions<br />
-• Average time taken for Git was comparatively lesser than time taken for GITS. Reason for this was all the participants were familiar with Git and first hand experience for them on GITS.
-• Most of the participants took around 24 minutes to complete GITS tasks and 19 minutes for Git tasks. 
-• Average commit count was comparatively less for GITS than Git because GITS reduces the number of commands to be executed for trivial tasks.
-• Most of the participants used 46/47 commands to complete both Git and GITS tasks.
-• All participants were familiar with Git beforehand and therefore they performed testing for Git with less difficultly compared to GITS.
+• Average time taken for Git was comparatively lesser than time taken for GITS. Reason for this was all the participants were familiar with Git and first hand experience for them on GITS.<br />
+• Most of the participants took around 24 minutes to complete GITS tasks and 19 minutes for Git tasks.<br />
+• Average commit count was comparatively less for GITS than Git because GITS reduces the number of commands to be executed for trivial tasks.<br />
+• Most of the participants used 46/47 commands to complete both Git and GITS tasks.<br />
+• All participants were familiar with Git beforehand and therefore they performed testing for Git with less difficultly compared to GITS.<br />
 
 ## Threats to Validity <br />	
-• There was a biased advantage for Git since all the participants were familiar with it as compared to GITS.
-• The experiment results could have been more evaluating if each participant had no familiarity with Git and GITS.
-• Time constraint limited the number of tasks for testing and thus the commands were not exhaustive.
-• The data collected (9 active participants) is not sufficient enough to draw strong conclusions.
+• There was a biased advantage for Git since all the participants were familiar with it as compared to GITS.<br />
+• The experiment results could have been more evaluating if each participant had no familiarity with Git and GITS.<br />
+• Time constraint limited the number of tasks for testing and thus the commands were not exhaustive.<br />
+• The data collected (9 active participants) is not sufficient enough to draw strong conclusions.<br />
