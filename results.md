@@ -13,14 +13,29 @@
 
 
 ## Observations<br />
+<br />
 Observational graphs for Git and GITS are as given below.<br />
+<br />
+The Pie Chart displays the number of participants who performed the experiements out of the 10 people enrolled.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.53.31%20PM.png)<br />
+<br />
+The below Bar graph displays, the amount of time taken by each participant to perform the experiment using Git and GITS.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/bar-graph2.png)<br />
+<br />
+The below Bar graph displays the average amount of time taken for experimenting using Git and GITS.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.22.00%20PM.png)<br />
+<br />
+The below Bar graph displays, the number of commits by each participant to perform the experiment using Git and GITS.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/bar-graph1.png)<br />
+<br />
+The below Bar graph displays the average number of commits for experimenting using Git and GITS.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.32.45%20PM.png)<br />
-![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.58.45%20PM.png)<br />
+<br />
+The below Pie charts displays the difficulty experienced by the participants using Git and GITS.<br /> 
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.58.45%20PM.png)
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.01.37%20PM.png)<br />
+<br />
+The below Pie chart displays the familiarity of participants with Git.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.44.30%20PM.png)<br />
 
 ## Conclusions<br />
