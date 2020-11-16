@@ -13,7 +13,7 @@
 
 
 ## Observations<br />
-Observational graphs for Git and GITS are as given below.
+Observational graphs for Git and GITS are as given below.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.53.31%20PM.png)<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/bar-graph2.png)<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%203.22.00%20PM.png)<br />
