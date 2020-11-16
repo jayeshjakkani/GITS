@@ -1,4 +1,5 @@
 ## GITS<br />
+GITS streamlines most frequently performed workflows using fewer commands which is so much easier and better than usual. Git-Simplified AKA GITS can be thought of wrapper around major Git functionalities. <br />
 This project aims to ease the developers efforts while interacting with version control system Git. 
 Here are few motivation points behind coming up with this idea:
 - Few git command names are very misleading from the end user's perspective. Consider this, ```git checkout``` command is used for both switching the branches and removing changes present inside working directory.
