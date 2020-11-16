@@ -16,9 +16,8 @@
 <br />
 Observational graphs for Git and GITS are as given below.<br />
 <br />
-The Pie Chart displays the number of participants who performed the experiements out of the 10 people enrolled.<br />
-![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.53.31%20PM.png)<br />
-<br />
+The Pie Chart displays the number of participants who performed the experiements out of the 10 people enrolled.
+![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/Screenshot%202020-11-16%20at%202.53.31%20PM.png)
 The below Bar graph displays, the amount of time taken by each participant to perform the experiment using Git and GITS.<br />
 ![alt text](https://github.com/jayeshjakkani/GITS/blob/master/images/bar-graph2.png)<br />
 <br />
